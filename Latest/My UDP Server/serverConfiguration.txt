@@ -1,0 +1,6 @@
+Server_port: 1256
+File_name: Book.pdf
+Packet_size: 56
+Packet_number_to_drop: 90
+Packet_number_to_corrupt: 78
+

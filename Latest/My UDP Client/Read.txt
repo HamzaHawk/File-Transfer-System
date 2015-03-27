@@ -1,0 +1,8 @@
+Server_IP: 1
+Server_port: 2 
+Client_Port: 3
+File_name: hamza.pdf
+Packet_size: 5
+ServerTimeout: 6
+ACK_number_to_drop: 7
+ACK_number_to_corrupt: 8
